@@ -52,10 +52,13 @@ npm run dev
 npm run build
 ```
 
+La compilación de producción se genera en `docs/`, lista para publicarse desde GitHub Pages.
+
 ## 📂 Estructura del proyecto
 
 ```
 ├── index.html
+├── docs/                 # Salida de producción para GitHub Pages
 ├── package.json
 ├── vite.config.js
 ├── tsconfig.json
