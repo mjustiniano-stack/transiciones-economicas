@@ -15,6 +15,14 @@
   height: 100vh;
 }
 
+/* Asegurar que el contenedor principal tenga altura */
+.w-full.h-screen {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 100vh;
+}
+
 /* Custom marker styles */
 .custom-marker {
   background: transparent !important;
