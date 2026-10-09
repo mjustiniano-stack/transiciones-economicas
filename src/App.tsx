@@ -300,7 +300,7 @@ export default function App() {
         <div className="px-6 py-4">
           <h1 className="text-white text-xl md:text-2xl font-bold tracking-tight flex items-center gap-2">
             <span className="text-2xl">🌍</span>
-            Transiciones de economías planificadas a economías de mercado
+            Transiciones de Economías Planificadas a Economías de Mercado
           </h1>
           <p className="text-gray-200 text-xs md:text-sm mt-1 max-w-xl">
             Mapa interactivo de las reformas de transición del socialismo al capitalismo
