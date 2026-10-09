@@ -1,4 +1,4 @@
-# 🌍 Transiciones Económicas Post-Socialistas — Mapa Interactivo
+# 🌍 Transiciones de economías planificadas a economías de mercado
 
 Aplicación web interactiva que visualiza las transiciones económicas de países post-socialistas hacia economías de mercado, con un mapa geolocalizado que despliega las características de cada caso de estudio.
 
@@ -91,4 +91,4 @@ Este proyecto es de uso educativo y académico.
 
 ---
 
-Desarrollado como herramienta de visualización para el estudio de las transiciones económicas post-socialistas.
+Desarrollado como herramienta de visualización para el estudio de las transiciones de economías planificadas a economías de mercado.
